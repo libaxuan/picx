@@ -1,5 +1,5 @@
 <a href="https://picx.xpoet.cn" >
-<img width="100" align="right" alt="PicX" src="https://cdn.staticaly.com/gh/XPoet/image-hosting@master/PicX/picx-logo.png">
+<img width="100" align="right" alt="PicX" src="https://picx-docs.xpoet.cn/images/logo.png">
 </a>
 
 # PicX
@@ -20,19 +20,19 @@
 
 - 在线使用，无需下载，无需安装。
 - 操作简单，文档完善，持续维护。
-- 代码开源，数据安全，免费使用。
+- 代码开源，数据安全，完全免费。
 
 ## 如何使用 | How to use
 
 只需 [创建一个 GitHub Token](https://github.com/settings/tokens/new)，在 [PicX 官网](https://picx.xpoet.cn) 使用 Token 完成图床配置即可。
 
-**PicX 在线使用入口 >> https://picx.xpoet.cn**
+**在线使用 https://picx.xpoet.cn**
 
 ## 文档 | Documents
 
-官方文档入口 >> https://picx-docs.xpoet.cn
+**官方文档 https://picx-docs.xpoet.cn**
 
-通过阅读 **[快速开始](https://picx-docs.xpoet.cn/usage-guide/get-start.html)** 教程，可帮助你迅速上手 PicX 。
+通过阅读 **[快速开始](https://picx-docs.xpoet.cn/usage-guide/get-start.html)** 教程，可帮助你迅速上手 PicX。 
 
 ## 功能 | Features
 
@@ -54,7 +54,7 @@
 
 欢迎各种形式的贡献，包括但不限于：美化界面、增加功能、性能优化、修复 Bug、完善文档等。
 
-> [PicX 贡献指南](https://picx-docs.xpoet.cn/user-notice/contribution-guide.html)
+> [PicX 贡献指南](https://picx-docs.xpoet.cn/contribution-guide/contribution-guide.html)
 
 ### 致谢
 
@@ -66,13 +66,13 @@
 
 ##  反馈 | Feedback
 
-在使用过程中，如遇问题，请仔细阅读 **[官方文档](https://picx-docs.xpoet.cn)**，或给作者提 **[Issue](https://github.com/XPoet/picx/issues)**。
+在使用过程中，如遇问题，请仔细阅读 **[官方文档](https://picx-docs.xpoet.cn)**，或在 GitHub 发起 **[Issue](https://github.com/XPoet/picx/issues)**。
 
 ## 赞赏 | Appreciation
 
 PicX 的更新迭代依靠作者工作之外的时间，维护不易，如果对你有帮助，欢迎赞赏作者，支持开源。
 
-<img width="320" src="https://cdn.staticaly.com/gh/XPoet/image-hosting@master/common/appreciation.webp" />
+<img width="320" src="https://xpoet.cn/images/admire-code-wechat.webp" />
 
 ## 许可 | License
 
